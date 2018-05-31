@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<root>
+<testcase name="InsertNewApplication">
+<testdata>
+<name>ApplicationName</name>
+<value>Expense Reports</value>
+</testdata>
+<testdata>
+<name>CorruptedApplicationName</name>
+<value><![CDATA[<]]></value>
+</testdata>
+</testcase>
+</root>
